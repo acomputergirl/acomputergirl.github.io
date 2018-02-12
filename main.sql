@@ -1,0 +1,2 @@
+CREATE TABLE Events("Name of Event" varchar(50),"Date" date,"Organization/Corporation" varchar(50),"Contact Person" varchar(30),"Telephone Number" varchar(12), "Description" varchar(500),"Open" bool, "Date Posted" timestamp, "EventID" int, "Reported" bool);
+INSERT INTO Events ("Website Development Camp", )
